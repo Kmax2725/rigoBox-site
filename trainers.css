@@ -1,0 +1,71 @@
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+  font-family: 'Bebas Neue', sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: black; /* Optional: adds contrast */
+  color: #fff; /* Optional: makes text pop */
+}
+
+img[alt="Rigoberto Rangel"] {
+  width: 300px;         /* Adjust size */
+  height: auto;         /* Maintain aspect ratio */
+  border-radius: 10px;  /* Slightly rounded corners */
+  border: 3px solid #333; /* Dark border */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* Soft shadow */
+  display: block;
+  margin: 20px auto;    /* Center horizontally */
+}
+
+img[alt="George Rangel-Martinez"] {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  border: 3px solid #333;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  display: block;
+  margin: 20px auto;
+}
+
+header p {
+  font-size: 24px; /* Adjust text size */
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+ h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  text-decoration: double underline;
+  text-align: center;
+}
+
+h2 {
+    text-align: center;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+}
+
+footer {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+}
+
+body {
+    background-color: lightgrey;
+}

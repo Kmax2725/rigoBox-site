@@ -1,0 +1,36 @@
+.centered-content {
+  text-align: center;
+}
+
+.centered-heading {
+  margin-top: 10px;
+  font-size: 4em;
+  color: black;
+}
+
+.centered-image {
+  width: 600px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+    background-color: darkkhaki;
+    text-align: center;
+}
+
+.rangebutton {
+  color: black; /* Deep red */
+  text-decoration: none; /* Optional: removes underline */
+}
+
+.rangebutton:hover {
+  color: green; /* Bright orange on hover */
+}
+
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-decoration: double underline;
+    text-align: center;
+}
