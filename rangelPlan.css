@@ -14,7 +14,7 @@ img {
     display: block;              /* Makes margin auto work */
     margin: 20px auto;           /* Vertically spaced, horizontally centered */
     max-width: 100%;             /* Prevents overflow */
-    width: 80%;                  /* Shrinks image to 80% of its container */
+    width: 60%;                  /* Shrinks image to 80% of its container */
     height: auto;                /* Maintains aspect ratio */
     border: solid 3px black;
     border-radius: 5px;
@@ -52,4 +52,5 @@ footer {
     margin-top: 20px;
 
 }
+
 
